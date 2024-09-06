@@ -1,6 +1,6 @@
 # KernelTomoRecons
 
-Tomographic Reconstruction using Gaussian Reproducing Kernel.
+Tomographic Reconstruction using Gaussian Reproducing Kernel. Run **main_tomo_recons.jl** for an example.
 
 # References
 
