@@ -1,3 +1,8 @@
 # KernelTomoRecons
 
-[![Build Status](https://github.com/HoYUN-stat/KernelTomoRecons.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/HoYUN-stat/KernelTomoRecons.jl/actions/workflows/CI.yml?query=branch%3Amain)
+Tomographic Reconstruction using Gaussian Reproducing Kernel.
+
+# References
+
+Yun H, Panaretos VM. (2023) Computerized Tomography and Reproducing Kernels. _arXiv preprint_.
+
