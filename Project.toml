@@ -1,0 +1,13 @@
+name = "KernelTomoRecons"
+uuid = "16df92a8-63ce-4ebb-a62e-ca3cbc629d75"
+authors = ["Ho Yun <ho.yun@epfl.ch>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
